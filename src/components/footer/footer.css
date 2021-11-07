@@ -1,0 +1,32 @@
+.contact {
+  height: 80px;
+  display: grid;
+  align-items: center;
+  justify-items: end;
+  background: #293240;
+  padding: 0 30px;
+  grid-template-columns: 4fr repeat(2, 1fr);
+}
+.contact .title {
+  font-size: 24px;
+  margin: 5px;
+  color: #E0FBFC;
+  font-weight: normal;
+  text-transform: capitalize;
+  justify-self: flex-start;
+}
+.contact .link {
+  text-transform: capitalize;
+  color: #EE6C4D;
+  font-size: 16px;
+  text-decoration: none;
+}
+.contact .link:hover {
+  color: #E0FBFC;
+  text-decoration: underline;
+}
+.contact .link.active {
+  color: #97C1D9;
+}
+
+/*# sourceMappingURL=footer.css.map */

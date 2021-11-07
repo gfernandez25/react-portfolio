@@ -1,0 +1,58 @@
+@use "colors";
+
+@mixin link {
+  text-transform: capitalize;
+  color: $link-color;
+  font-size: 16px;
+  text-decoration: none;
+
+  &:hover {
+    color: $link-hover-color;
+    text-decoration: underline;
+  }
+}
+
+@mixin title {
+  font-size: 24px;
+  margin: 5px;
+  color: $title-color;
+  font-weight: normal;
+  text-transform: capitalize;
+}
+
+@mixin section-title {
+  @include title;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+@mixin section {
+  padding: 80px;
+  color: $font-color;
+
+  .title {
+    @include section-title;
+  }
+}
+
+@mixin main-nav {
+  height: 80px;
+  display: grid;
+  align-items: center;
+  justify-items: end;
+  background: $bar-bg;
+  padding: 0 30px;
+
+  .title {
+    @include title;
+    justify-self: flex-start;
+  }
+
+  .link {
+    @include link;
+
+    &.active {
+      color: $blue2;
+    }
+  }
+}

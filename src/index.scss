@@ -1,0 +1,31 @@
+@import "assets/styles/core";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  background: $bg-color;
+  color: $font-color;
+}
+
+.section {
+  @include section;
+
+  p {
+    font-size: 16px;
+    line-height: 2em;
+    margin-bottom: 2em;
+  }
+}
+
+

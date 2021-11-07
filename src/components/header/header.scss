@@ -1,0 +1,9 @@
+@import "../../assets/styles/core";
+
+.main-nav {
+  @include main-nav;
+  grid-template-columns: 2fr repeat(4, 1fr);
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}

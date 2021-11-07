@@ -1,0 +1,7 @@
+@import "../../assets/styles/core";
+
+.contact {
+  @include main-nav;
+  grid-template-columns: 4fr repeat(2, 1fr);
+}
+

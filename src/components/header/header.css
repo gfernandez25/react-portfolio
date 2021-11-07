@@ -1,0 +1,35 @@
+.main-nav {
+  height: 80px;
+  display: grid;
+  align-items: center;
+  justify-items: end;
+  background: #293240;
+  padding: 0 30px;
+  grid-template-columns: 2fr repeat(4, 1fr);
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.main-nav .title {
+  font-size: 24px;
+  margin: 5px;
+  color: #E0FBFC;
+  font-weight: normal;
+  text-transform: capitalize;
+  justify-self: flex-start;
+}
+.main-nav .link {
+  text-transform: capitalize;
+  color: #EE6C4D;
+  font-size: 16px;
+  text-decoration: none;
+}
+.main-nav .link:hover {
+  color: #E0FBFC;
+  text-decoration: underline;
+}
+.main-nav .link.active {
+  color: #97C1D9;
+}
+
+/*# sourceMappingURL=header.css.map */
