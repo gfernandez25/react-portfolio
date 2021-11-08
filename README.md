@@ -17,7 +17,9 @@ This a portfolio page build using REACT and featuring a saple of my completed pr
 1. no steps are required, just visit my page
 
 ## Usage
-just visit my page see my project and contact me if needed
+just visit my page at
+[project link](https://gfernandez25.github.io/react-portfolio/)
+see my projects and contact me if needed
 
 ![ScreenShot](src/assets/images/react-portfolio.png)
 
