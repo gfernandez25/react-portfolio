@@ -1,5 +1,5 @@
 import './resume.scss';
-import resume from "../../assets/files/resume.pdf";
+import resume from "../../assets/files/Guillermo_Fernandez,_MSMIS_-_Full_Stack_Developer.pdf";
 
 function ViewResume() {
     return (
