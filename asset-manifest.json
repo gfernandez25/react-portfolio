@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/gfernandez25/react-portfolio/static/css/main.ccf8bb60.chunk.css",
+    "main.js": "/gfernandez25/react-portfolio/static/js/main.f91529f2.chunk.js",
+    "main.js.map": "/gfernandez25/react-portfolio/static/js/main.f91529f2.chunk.js.map",
+    "runtime-main.js": "/gfernandez25/react-portfolio/static/js/runtime-main.d748f863.js",
+    "runtime-main.js.map": "/gfernandez25/react-portfolio/static/js/runtime-main.d748f863.js.map",
+    "static/js/2.09de75d5.chunk.js": "/gfernandez25/react-portfolio/static/js/2.09de75d5.chunk.js",
+    "static/js/2.09de75d5.chunk.js.map": "/gfernandez25/react-portfolio/static/js/2.09de75d5.chunk.js.map",
+    "static/js/3.7e5efe65.chunk.js": "/gfernandez25/react-portfolio/static/js/3.7e5efe65.chunk.js",
+    "static/js/3.7e5efe65.chunk.js.map": "/gfernandez25/react-portfolio/static/js/3.7e5efe65.chunk.js.map",
+    "index.html": "/gfernandez25/react-portfolio/index.html",
+    "static/css/main.ccf8bb60.chunk.css.map": "/gfernandez25/react-portfolio/static/css/main.ccf8bb60.chunk.css.map",
+    "static/js/2.09de75d5.chunk.js.LICENSE.txt": "/gfernandez25/react-portfolio/static/js/2.09de75d5.chunk.js.LICENSE.txt",
+    "static/media/WorkDay-Scheduler.94330859.png": "/gfernandez25/react-portfolio/static/media/WorkDay-Scheduler.94330859.png",
+    "static/media/coming-soon-image.927d6d19.jpg": "/gfernandez25/react-portfolio/static/media/coming-soon-image.927d6d19.jpg",
+    "static/media/event-weather.d76a9d56.png": "/gfernandez25/react-portfolio/static/media/event-weather.d76a9d56.png",
+    "static/media/my-adventure-app.1acfcf9c.png": "/gfernandez25/react-portfolio/static/media/my-adventure-app.1acfcf9c.png",
+    "static/media/picture-myself.66a02dba.jpg": "/gfernandez25/react-portfolio/static/media/picture-myself.66a02dba.jpg",
+    "static/media/randomPasswordScreenShot.32a97c9e.png": "/gfernandez25/react-portfolio/static/media/randomPasswordScreenShot.32a97c9e.png",
+    "static/media/resume.ac0398d4.pdf": "/gfernandez25/react-portfolio/static/media/resume.ac0398d4.pdf",
+    "static/media/run-buddy.ea9e5e2d.jpg": "/gfernandez25/react-portfolio/static/media/run-buddy.ea9e5e2d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d748f863.js",
+    "static/js/2.09de75d5.chunk.js",
+    "static/css/main.ccf8bb60.chunk.css",
+    "static/js/main.f91529f2.chunk.js"
+  ]
+}
