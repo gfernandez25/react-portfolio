@@ -20,6 +20,9 @@ function App() {
                     <Route exact path="/">
                         <Redirect to={"/about-me"}/>
                     </Route>
+                    <Route exact path="/react-portfolio/">
+                        <Redirect to={"/about-me"}/>
+                    </Route>
                     <Route path="/about-me" component={ViewAboutMe}/>
                     <Route path="/portfolio" component={ViewPortfolio}/>
                     <Route path="/contact-me" component={ViewContactMe}/>
