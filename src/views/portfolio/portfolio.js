@@ -2,9 +2,9 @@ import './portfolio.scss';
 import runbuddy from "../../assets/images/run-buddy.jpg";
 import randomPasswordScreenShot from "../../assets/images/randomPasswordScreenShot.png";
 import eventWeather from "../../assets/images/event-weather.png";
-import squeduller from "../../assets/images/WorkDay-Scheduler.png";
+import scheduler from "../../assets/images/WorkDay-Scheduler.png";
 import adventure from "../../assets/images/my-adventure-app.png";
-import commngSoon from "../../assets/images/coming-soon-image.jpg";
+import comingSoon from "../../assets/images/coming-soon-image.jpg";
 
 function ViewPortfolio() {
 
@@ -44,7 +44,7 @@ function ViewPortfolio() {
                     </div>
                 </a>
                 <a href="https://gfernandez25.github.io/Work-Day-Scheduler/" className="work-list-item-link">
-                    <img src={squeduller} alt="display coming soon"
+                    <img src={scheduler} alt="display coming soon"
                          className="work-list-item-link-image"/>
 
                     <div>
@@ -70,7 +70,7 @@ function ViewPortfolio() {
                     </div>
                 </a>
                 <a href="" className="work-list-item-link">
-                    <img src={commngSoon} alt="display coming soon"
+                    <img src={comingSoon} alt="display coming soon"
                          className="work-list-item-link-image"/>
                     <div>
                         <h3 className="work-list-item-link-title">E-commerce App</h3>
