@@ -5,6 +5,7 @@ import eventWeather from "../../assets/images/event-weather.png";
 import scheduler from "../../assets/images/WorkDay-Scheduler.png";
 import adventure from "../../assets/images/my-adventure-app.png";
 import comingSoon from "../../assets/images/coming-soon-image.jpg";
+import ecommerce from "../../assets/images/moarkett-screenshot.png";
 
 function ViewPortfolio() {
 
@@ -69,12 +70,13 @@ function ViewPortfolio() {
                         </p>
                     </div>
                 </a>
-                <a href="" className="work-list-item-link">
-                    <img src={comingSoon} alt="display coming soon"
+                <a href="https://radiant-reef-51120.herokuapp.com/" className="work-list-item-link">
+                    <img src={ecommerce} alt="display coming soon"
                          className="work-list-item-link-image"/>
                     <div>
                         <h3 className="work-list-item-link-title">E-commerce App</h3>
-                        <p className="work-list-item-link-description">Description coming soon</p>
+                        <p className="work-list-item-link-description">E-commerce website that allows users to
+                            shop for items and checkout using stripe</p>
                     </div>
                 </a>
             </section>
